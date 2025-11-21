@@ -1,0 +1,8 @@
+D:/MCA/julia/Rlab6/report/build/CMakeFiles/build_all.dir
+D:/MCA/julia/Rlab6/report/build/CMakeFiles/build_pdf.dir
+D:/MCA/julia/Rlab6/report/build/CMakeFiles/build_docx.dir
+D:/MCA/julia/Rlab6/report/build/CMakeFiles/Rreport6_pdf.dir
+D:/MCA/julia/Rlab6/report/build/CMakeFiles/Rreport6_docx.dir
+D:/MCA/julia/Rlab6/report/build/CMakeFiles/clean_all.dir
+D:/MCA/julia/Rlab6/report/build/CMakeFiles/edit_cache.dir
+D:/MCA/julia/Rlab6/report/build/CMakeFiles/rebuild_cache.dir

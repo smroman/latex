@@ -1,8 +1,0 @@
-D:/New folder/Rlab7/report/build/CMakeFiles/build_all.dir
-D:/New folder/Rlab7/report/build/CMakeFiles/build_pdf.dir
-D:/New folder/Rlab7/report/build/CMakeFiles/build_docx.dir
-D:/New folder/Rlab7/report/build/CMakeFiles/Rreport7_pdf.dir
-D:/New folder/Rlab7/report/build/CMakeFiles/Rreport7_docx.dir
-D:/New folder/Rlab7/report/build/CMakeFiles/clean_all.dir
-D:/New folder/Rlab7/report/build/CMakeFiles/edit_cache.dir
-D:/New folder/Rlab7/report/build/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,0 @@
-D:/New folder/Rlab7/presentation/build/CMakeFiles/build_all.dir
-D:/New folder/Rlab7/presentation/build/CMakeFiles/build_pdf.dir
-D:/New folder/Rlab7/presentation/build/CMakeFiles/build_html.dir
-D:/New folder/Rlab7/presentation/build/CMakeFiles/Rpresentation7_pdf.dir
-D:/New folder/Rlab7/presentation/build/CMakeFiles/Rpresentation7_html.dir
-D:/New folder/Rlab7/presentation/build/CMakeFiles/clean_all.dir
-D:/New folder/Rlab7/presentation/build/CMakeFiles/edit_cache.dir
-D:/New folder/Rlab7/presentation/build/CMakeFiles/rebuild_cache.dir
